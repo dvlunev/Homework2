@@ -53,6 +53,6 @@ public class Main {
         System.out.println ("Всего сотрудников в компании – " + amountWorkers + " человек");
         amountWorkers = amountWorkers + 94;
         workingTime = shiftDuration * amountWorkers;
-        System.out.println ("Если в компании работает " + amountWorkers + " человек, то всего " + workingTime + " часов работы может быть поделено между сотрудниками");
+        System.out.println ("Если в компании работает " + amountWorkers + " человек,то всего " + workingTime + " часов работы может быть поделено между сотрудниками");
     }
 }
